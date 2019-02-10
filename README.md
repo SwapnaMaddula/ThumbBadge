@@ -1,10 +1,7 @@
 #CMPE-272 : Project Team 17
 
-Team members: 
-  1. Savitri Swapna Maddula
-  2. Gaurav
-  3. Jyothsna
-  4. Charu
+# Savitri Swapna Maddula
+ 
 
 # Project Idea:
 
